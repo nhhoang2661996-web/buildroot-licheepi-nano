@@ -1,0 +1,11 @@
+output/
+dl/
+build/
+*.img
+*.bin
+*.o
+*.a
+.config
+.vscode/
+.idea/
+
